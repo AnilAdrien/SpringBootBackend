@@ -1,0 +1,1 @@
+Create your MySQL database using the db sql query in the SQL folder.
